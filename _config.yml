@@ -1,20 +1,8 @@
-title: Portfolio
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.91566
-favicon: null
 name: JacobBommarito
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.91566
+typography_spectrum: 0.53748
+title: Portfolio
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.125
-  lightness: 0.3106383
-  saturation: 0.6875
-  rhythmicContrast: 0.75
   brandColors:
     - '#000000'
     - '#e6e6e4'
     - '#ff8a32'
     - '#008493'
     - '#ff0018'
-typography_spectrum: 0.53748
+  brandStrength: 0.125
+  lightness: 0.3106383
+  saturation: 0.625
+  rhythmicContrast: 0.75
+purpose: []
