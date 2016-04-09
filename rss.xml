@@ -4,8 +4,15 @@
         <description><![CDATA[Portfolio]]></description>
         <link>https://thegrid.ai/jacobbommarito/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 18:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 18:20:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jacobbommarito/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>https://thegrid.ai/jacobbommarito/9b85fbbf-efdc-41ce-aba4-a9dc79e54ce5/index.html</link>
+            <guid isPermaLink="false">9b85fbbf-efdc-41ce-aba4-a9dc79e54ce5</guid>
+            <pubDate>Sat, 09 Apr 2016 18:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da351500-061c-4185-a926-57657b8b8ebd.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/jacobbommarito/ffec14b1-13d2-47bc-b3fd-aad64af4b0f2/index.html</link>
             <guid isPermaLink="false">ffec14b1-13d2-47bc-b3fd-aad64af4b0f2</guid>
             <pubDate>Sat, 09 Apr 2016 18:01:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/jacobbommarito/9b85fbbf-efdc-41ce-aba4-a9dc79e54ce5/index.html</link>
-            <guid isPermaLink="false">9b85fbbf-efdc-41ce-aba4-a9dc79e54ce5</guid>
-            <pubDate>Sat, 09 Apr 2016 17:55:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
