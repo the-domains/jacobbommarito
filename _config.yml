@@ -1,29 +1,41 @@
-name: JacobBommarito
-favicon: null
-layout_spectrum: 0.91566
-typography_spectrum: 0.53748
 title: Portfolio
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.91566
+favicon: null
+name: JacobBommarito
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.125
+  lightness: 0.3106383
+  saturation: 0.6875
+  rhythmicContrast: 0.75
   brandColors:
     - '#000000'
     - '#e6e6e4'
     - '#ff8a32'
     - '#008493'
     - '#ff0018'
-  brandStrength: 0.125
-  lightness: 0.375
-  saturation: 0.6875
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.53748
