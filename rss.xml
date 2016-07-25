@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Portfolio]]></title>
+        <description><![CDATA[Portfolio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jul 2016 21:17:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?url=https%3A%2F%2Fipv4.google.com%2Fsorry%2FIndexRedirect%3Fcontinue%3Dhttps%3A%2F%2Fwww.youtube.com%2Fwatch%253Fv%253DrM4k63naLjU%26q%3DCGMSBDbMFPkYsZLFuQUiGQDxp4NLtA9gZu7QXCWiPTSMVSK5f8FoCvM&src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FNone&type=text%2Fhtml&key=b7d04c9b404c499eba89ee7072e1c4f7&schema=google" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=rM4k63naLjU</link>
+            <guid isPermaLink="false">a21dd888-67c4-4ee4-b8b5-fc36a963937d</guid>
+            <pubDate>Mon, 25 Jul 2016 21:17:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
